@@ -1,2 +1,2 @@
 # smns
-assets reppsitory
+assets repository
